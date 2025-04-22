@@ -1,0 +1,209 @@
+{
+  "messages": [
+    {
+      "content": "Explain ChatGPt Shortly",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": "1b4ba5ae-b566-4ba3-a5cf-20631ead3d54",
+      "example": false
+    },
+    {
+      "content": "",
+      "additional_kwargs": {
+        "tool_calls": [
+          {
+            "id": "call_wcqz",
+            "function": {
+              "arguments": "{\"query\":\"ChatGPT\"}",
+              "name": "tavily_search_results_json"
+            },
+            "type": "function"
+          }
+        ]
+      },
+      "response_metadata": {
+        "token_usage": {
+          "completion_tokens": 49,
+          "prompt_tokens": 955,
+          "total_tokens": 1004,
+          "completion_time": 0.145933223,
+          "prompt_time": 0.031388674,
+          "queue_time": 0.055199446000000006,
+          "total_time": 0.177321897
+        },
+        "model_name": "llama3-70b-8192",
+        "system_fingerprint": "fp_dd4ae1c591",
+        "finish_reason": "tool_calls",
+        "logprobs": null
+      },
+      "type": "ai",
+      "name": null,
+      "id": "run-93fc348d-449f-45e6-8a35-d24d8d699966-0",
+      "example": false,
+      "tool_calls": [
+        {
+          "name": "tavily_search_results_json",
+          "args": {
+            "query": "ChatGPT"
+          },
+          "id": "call_wcqz",
+          "type": "tool_call"
+        }
+      ],
+      "invalid_tool_calls": [],
+      "usage_metadata": {
+        "input_tokens": 955,
+        "output_tokens": 49,
+        "total_tokens": 1004
+      }
+    },
+    {
+      "content": "[{\"title\": \"ChatGPT - Wikipedia\", \"url\": \"https://en.wikipedia.org/wiki/ChatGPT\", \"content\": \"ChatGPT is a generative artificial intelligence chatbot developed by OpenAI and launched in 2022. It is currently based on the GPT-4o large language model (LLM). ChatGPT can generate human-like conversational responses and enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language.[2] It is credited with accelerating the AI boom, which has led to ongoing rapid investment in and public attention to the field of artificial intelligence [...] ChatGPT is built on OpenAI's proprietary series of generative pre-trained transformer (GPT) models and is fine-tuned for conversational applications using a combination of supervised learning and reinforcement learning from human feedback.[4] Successive user prompts and replies are considered at each conversation stage as context.[6] ChatGPT was released as a freely available research preview, but due to its popularity, OpenAI now operates the service on a freemium model. Users on its free tier [...] ChatGPT is based on particular GPT foundation models, namely GPT-4, GPT-4o and GPT-4o mini, that were fine-tuned to target conversational usage.[14] The fine-tuning process leveraged supervised learning and reinforcement learning from human feedback (RLHF).[15][16] Both approaches employed human trainers to improve model performance. In the case of supervised learning, the trainers played both sides: the user and the AI assistant. In the reinforcement learning stage, human trainers first ranked\", \"score\": 0.9138076}, {\"title\": \"ChatGPT: Everything you need to know about the AI-powered chatbot\", \"url\": \"https://techcrunch.com/2025/04/18/chatgpt-everything-to-know-about-the-ai-chatbot/\", \"content\": \"ChatGPT is a general-purpose chatbot that uses artificial intelligence to generate text after a user enters a prompt, developed by tech startup OpenAI. The chatbot uses GPT-4, a large language model that uses deep learning to produce human-like text.\\n\\nWhen did ChatGPT get released?\\n\\nNovember 30, 2022 is when ChatGPT was released for public use.\\n\\nWhat is the latest version of ChatGPT? [...] ChatGPT: Everything you need to know about the AI-powered chatbot\\n\\nChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with short text prompts has evolved into a behemoth with 300 million weekly active users. [...] GPT stands for Generative Pre-Trained Transformer.\\n\\nWhat is the difference between ChatGPT and a chatbot?\\n\\nA chatbot can be any software/system that holds dialogue with you/a person but doesn’t necessarily have to be AI-powered. For example, there are chatbots that are rules-based in the sense that they’ll give canned responses to questions.\\n\\nChatGPT is AI-powered and utilizes LLM technology to generate text after a prompt.\\n\\nCan ChatGPT write essays?\\n\\nYes.\\n\\nCan ChatGPT commit libel?\", \"score\": 0.8989177}]",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "tool",
+      "name": "tavily_search_results_json",
+      "id": "d3b55bee-ff55-444d-9ac9-2ca880cf5194",
+      "tool_call_id": "call_wcqz",
+      "artifact": {
+        "query": "ChatGPT",
+        "follow_up_questions": null,
+        "answer": null,
+        "images": [],
+        "results": [
+          {
+            "url": "https://en.wikipedia.org/wiki/ChatGPT",
+            "title": "ChatGPT - Wikipedia",
+            "content": "ChatGPT is a generative artificial intelligence chatbot developed by OpenAI and launched in 2022. It is currently based on the GPT-4o large language model (LLM). ChatGPT can generate human-like conversational responses and enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language.[2] It is credited with accelerating the AI boom, which has led to ongoing rapid investment in and public attention to the field of artificial intelligence [...] ChatGPT is built on OpenAI's proprietary series of generative pre-trained transformer (GPT) models and is fine-tuned for conversational applications using a combination of supervised learning and reinforcement learning from human feedback.[4] Successive user prompts and replies are considered at each conversation stage as context.[6] ChatGPT was released as a freely available research preview, but due to its popularity, OpenAI now operates the service on a freemium model. Users on its free tier [...] ChatGPT is based on particular GPT foundation models, namely GPT-4, GPT-4o and GPT-4o mini, that were fine-tuned to target conversational usage.[14] The fine-tuning process leveraged supervised learning and reinforcement learning from human feedback (RLHF).[15][16] Both approaches employed human trainers to improve model performance. In the case of supervised learning, the trainers played both sides: the user and the AI assistant. In the reinforcement learning stage, human trainers first ranked",
+            "score": 0.9138076,
+            "raw_content": null
+          },
+          {
+            "url": "https://techcrunch.com/2025/04/18/chatgpt-everything-to-know-about-the-ai-chatbot/",
+            "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+            "content": "ChatGPT is a general-purpose chatbot that uses artificial intelligence to generate text after a user enters a prompt, developed by tech startup OpenAI. The chatbot uses GPT-4, a large language model that uses deep learning to produce human-like text.\n\nWhen did ChatGPT get released?\n\nNovember 30, 2022 is when ChatGPT was released for public use.\n\nWhat is the latest version of ChatGPT? [...] ChatGPT: Everything you need to know about the AI-powered chatbot\n\nChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with short text prompts has evolved into a behemoth with 300 million weekly active users. [...] GPT stands for Generative Pre-Trained Transformer.\n\nWhat is the difference between ChatGPT and a chatbot?\n\nA chatbot can be any software/system that holds dialogue with you/a person but doesn’t necessarily have to be AI-powered. For example, there are chatbots that are rules-based in the sense that they’ll give canned responses to questions.\n\nChatGPT is AI-powered and utilizes LLM technology to generate text after a prompt.\n\nCan ChatGPT write essays?\n\nYes.\n\nCan ChatGPT commit libel?",
+            "score": 0.8989177,
+            "raw_content": null
+          }
+        ],
+        "response_time": 1.48
+      },
+      "status": "success"
+    },
+    {
+      "content": "",
+      "additional_kwargs": {
+        "tool_calls": [
+          {
+            "id": "call_as1c",
+            "function": {
+              "arguments": "{\"query\":\"ChatGPT, a brief overview\"}",
+              "name": "tavily_search_results_json"
+            },
+            "type": "function"
+          }
+        ]
+      },
+      "response_metadata": {
+        "token_usage": {
+          "completion_tokens": 43,
+          "prompt_tokens": 1734,
+          "total_tokens": 1777,
+          "completion_time": 0.149676665,
+          "prompt_time": 0.064620551,
+          "queue_time": 0.058733207999999995,
+          "total_time": 0.214297216
+        },
+        "model_name": "llama3-70b-8192",
+        "system_fingerprint": "fp_dd4ae1c591",
+        "finish_reason": "tool_calls",
+        "logprobs": null
+      },
+      "type": "ai",
+      "name": null,
+      "id": "run-15890535-4d12-430e-85e8-c6555d69b4d7-0",
+      "example": false,
+      "tool_calls": [
+        {
+          "name": "tavily_search_results_json",
+          "args": {
+            "query": "ChatGPT, a brief overview"
+          },
+          "id": "call_as1c",
+          "type": "tool_call"
+        }
+      ],
+      "invalid_tool_calls": [],
+      "usage_metadata": {
+        "input_tokens": 1734,
+        "output_tokens": 43,
+        "total_tokens": 1777
+      }
+    },
+    {
+      "content": "[{\"title\": \"A Brief Overview of ChatGPT: The History, Status Quo and Potential ...\", \"url\": \"https://www.sciengine.com/doi/10.1109/JAS.2023.123618\", \"content\": \"In essence, ChatGPT is a tool for quickly building materials. It enables low-cost or even zero-cost automated content creation, revolutionizing the content\", \"score\": 0.8745175}, {\"title\": \"A Brief Overview of ChatGPT: The History, Status Quo and Potential ...\", \"url\": \"https://ieeexplore.ieee.org/document/10113601\", \"content\": \"This paper briefly provides an overview on the history, status quo and potential future development of ChatGPT, helping to provide an entry\", \"score\": 0.852752}]",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "tool",
+      "name": "tavily_search_results_json",
+      "id": "1f29c9c4-d4f8-4176-98b4-258387beacb1",
+      "tool_call_id": "call_as1c",
+      "artifact": {
+        "query": "ChatGPT, a brief overview",
+        "follow_up_questions": null,
+        "answer": null,
+        "images": [],
+        "results": [
+          {
+            "url": "https://www.sciengine.com/doi/10.1109/JAS.2023.123618",
+            "title": "A Brief Overview of ChatGPT: The History, Status Quo and Potential ...",
+            "content": "In essence, ChatGPT is a tool for quickly building materials. It enables low-cost or even zero-cost automated content creation, revolutionizing the content",
+            "score": 0.8745175,
+            "raw_content": null
+          },
+          {
+            "url": "https://ieeexplore.ieee.org/document/10113601",
+            "title": "A Brief Overview of ChatGPT: The History, Status Quo and Potential ...",
+            "content": "This paper briefly provides an overview on the history, status quo and potential future development of ChatGPT, helping to provide an entry",
+            "score": 0.852752,
+            "raw_content": null
+          }
+        ],
+        "response_time": 1.15
+      },
+      "status": "success"
+    },
+    {
+      "content": "ChatGPT is a generative artificial intelligence chatbot developed by OpenAI and launched in 2022. It is currently based on the GPT-4o large language model (LLM) and can generate human-like conversational responses.",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "token_usage": {
+          "completion_tokens": 50,
+          "prompt_tokens": 1981,
+          "total_tokens": 2031,
+          "completion_time": 0.16003485,
+          "prompt_time": 0.073746228,
+          "queue_time": 0.060366910999999995,
+          "total_time": 0.233781078
+        },
+        "model_name": "llama3-70b-8192",
+        "system_fingerprint": "fp_dd4ae1c591",
+        "finish_reason": "stop",
+        "logprobs": null
+      },
+      "type": "ai",
+      "name": null,
+      "id": "run-92c66aa9-53b8-4431-a890-57be7be9bd0e-0",
+      "example": false,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": {
+        "input_tokens": 1981,
+        "output_tokens": 50,
+        "total_tokens": 2031
+      }
+    }
+  ]
+}
