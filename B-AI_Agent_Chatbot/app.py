@@ -10,8 +10,8 @@ import uvicorn  # Uvicorn server for running the FastAPI app
 
 # Retrieve and set API keys for external tools and services
 
-groq_api_key = os.getenv("GROQ_API_KEY", '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')  # Groq API key
-os.environ["TAVILY_API_KEY"] = os.getenv("TAVILY_API_KEY", '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')  # Set Tavily API key
+groq_api_key = os.getenv("GROQ_API_KEY", 'your-api-key')  # Groq API key
+os.environ["TAVILY_API_KEY"] = os.getenv("TAVILY_API_KEY", 'your-api-key')  # Set Tavily API key
 
 
 # Predefined list of supported model names
