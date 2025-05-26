@@ -1,26 +1,6 @@
 {
-    "ship_name": [
-        "94W4F32",
-        "57K9M18",
-        "83T2X67",
-        "61R8L94",
-        "46Y5N23",
-        "78C3Z10",
-        "29B6Q81",
-        "90V7J55",
-        "63H1S42",
-        "35D4K76",
-        "88P9E29"
-    ],
-    "reach_time": [
-        "3:00 p.m.",
-        "12:00 p.m."
-    ],
-    "containers_unloaded": [
-        10,
-        null
-    ],
-    "company_name": [
-        "ABC Company"
-    ]
+    "ship_name": "94W4F32",
+    "reach_time": "14:00",
+    "containers_unloaded": 10,
+    "company_name": "abc"
 }
