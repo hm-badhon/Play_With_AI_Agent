@@ -1,0 +1,202 @@
+[
+    {
+        "question": "Hi",
+        "answer": "Hello! How can I assist you today?"
+    },
+    {
+        "question": "Hello",
+        "answer": "Hi! How may I help you?"
+    },
+    {
+        "question": "How are you?",
+        "answer": "I'm here to help! How about you, how can I assist you today?"
+    },
+    {
+        "question": "Greeting?",
+        "answer": "Hello! Welcome, how can I support you?"
+    },
+    {
+        "question": "How do I check my account balance?",
+        "answer": "You can check your balance using mobile banking, internet banking, or ATM."
+    },
+    {
+        "question": "What is the interest rate for personal loans?",
+        "answer": "The current personal loan interest rate ranges from 10% to 12%."
+    },
+    {
+        "question": "How can I apply for a credit card?",
+        "answer": "You can apply for a credit card online through our website or by visiting a branch."
+    },
+    {
+        "question": "What are the bank's working hours?",
+        "answer": "Our working hours are Monday to Friday from 9 AM to 5 PM, and Saturday from 9 AM to 1 PM."
+    },
+    {
+        "question": "How do I report a lost or stolen card?",
+        "answer": "You can report a lost or stolen card by calling our customer service hotline or visiting a branch immediately."
+    },
+    {
+        "question": "What is the process for opening a new account?",
+        "answer": "To open a new account, you need to provide valid identification, proof of address, and complete the application form at a branch."
+    },
+    {
+        "question": "How can I transfer money to another bank?",
+        "answer": "You can transfer money using internet banking, mobile banking, or by visiting a branch. You will need the recipient's bank details."
+    },
+    {
+        "question": "What should I do if I forget my online banking password?",
+        "answer": "If you forget your online banking password, you can reset it by clicking on the \"Forgot Password\" link on the login page or by contacting customer support."
+    },
+    {
+        "question": "How do I set up automatic bill payments?",
+        "answer": "You can set up automatic bill payments through internet banking or by visiting a branch. You will need to provide the biller's details and your account information."
+    },
+    {
+        "question": "What are the fees for international money transfers?",
+        "answer": "International money transfer fees vary based on the amount and destination. Please check our website or contact customer service for specific rates."
+    },
+    {
+        "question": "How can I increase my credit limit?",
+        "answer": "To increase your credit limit, you can request a review of your account by contacting customer service or through internet banking. Approval is subject to credit assessment."
+    },
+    {
+        "question": "What should I do if my account is overdrawn?",
+        "answer": "If your account is overdrawn, please contact customer service immediately to discuss repayment options and avoid additional fees."
+    },
+    {
+        "question": "How do I update my personal information?",
+        "answer": "You can update your personal information by logging into your online banking account, using the mobile app, or by visiting a branch with valid identification."
+    },
+    {
+        "question": "What is the process for closing an account?",
+        "answer": "To close an account, you need to visit a branch with valid identification and complete the account closure form. Ensure all pending transactions are settled before closure."
+    },
+    {
+        "question": "How can I dispute a transaction on my account?",
+        "answer": "To dispute a transaction, you should contact customer service as soon as possible with details of the transaction. They will guide you through the dispute process."
+    },
+    {
+        "question": "What are the requirements for a home loan?",
+        "answer": "To apply for a home loan, you typically need proof of income, credit history, property details, and identification. Specific requirements may vary based on the loan type and amount."
+    },
+    {
+        "question": "How do I set up a standing order?",
+        "answer": "You can set up a standing order through internet banking, mobile banking, or by visiting a branch. You will need to provide the recipient's bank details and the amount to be transferred regularly."
+    },
+    {
+        "question": "What should I do if I suspect fraudulent activity on my account?",
+        "answer": "If you suspect fraudulent activity, immediately contact customer service to report the issue. They will assist you in securing your account and investigating the matter."
+    },
+    {
+        "question": "How can I access my account statements?",
+        "answer": "You can access your account statements through internet banking, mobile banking, or by requesting them at a branch. Statements can usually be downloaded or printed directly from your online account."
+    },
+    {
+        "question": "How do I set up an automatic credit card payment?",
+        "answer": "You can set up an automatic credit card payment through internet banking, mobile banking, or by visiting a"
+    },
+    {
+        "question": "What is the process for applying for a business loan?",
+        "answer": "To apply for a business loan, you need to provide your business"
+    },
+    {
+        "question": "হ্যালো",
+        "answer": "হ্যালো! আমি কীভাবে আপনার সাহায্য করতে পারি?"
+    },
+    {
+        "question": "হাই",
+        "answer": "হাই! আপনাকে কীভাবে সাহায্য করতে পারি?"
+    },
+    {
+        "question": "আপনি কেমন আছেন?",
+        "answer": "আমি ভালো আছি, সাহায্যের জন্য প্রস্তুত! আপনি কেমন আছেন? কীভাবে সাহায্য করতে পারি?"
+    },
+    {
+        "question": "অভিবাদন?",
+        "answer": "স্বাগতম! আমি কীভাবে আপনাকে সহযোগিতা করতে পারি?"
+    },
+    {
+        "question": "আমি কীভাবে আমার অ্যাকাউন্ট ব্যালেন্স চেক করবো?",
+        "answer": "আপনি মোবাইল ব্যাংকিং, ইন্টারনেট ব্যাংকিং বা এটিএম ব্যবহার করে ব্যালেন্স চেক করতে পারেন।"
+    },
+    {
+        "question": "পার্সোনাল লোনের সুদের হার কত?",
+        "answer": "বর্তমানে পার্সোনাল লোনের সুদের হার ১০% থেকে ১২% এর মধ্যে।"
+    },
+    {
+        "question": "আমি কীভাবে ক্রেডিট কার্ডের জন্য আবেদন করতে পারি?",
+        "answer": "আপনি আমাদের ওয়েবসাইটের মাধ্যমে অনলাইনে অথবা শাখায় গিয়ে আবেদন করতে পারেন।"
+    },
+    {
+        "question": "ব্যাংকের অফিস সময় কী?",
+        "answer": "আমাদের অফিস সময় সোমবার থেকে শুক্রবার সকাল ৯টা থেকে বিকাল ৫টা পর্যন্ত এবং শনিবার সকাল ৯টা থেকে দুপুর ১টা পর্যন্ত।"
+    },
+    {
+        "question": "আমি যদি আমার কার্ড হারিয়ে ফেলি বা চুরি হয়ে যায় তাহলে কী করব?",
+        "answer": "কার্ড হারালে বা চুরি হলে অবিলম্বে আমাদের কাস্টমার সার্ভিসে ফোন করুন বা শাখায় গিয়ে রিপোর্ট করুন।"
+    },
+    {
+        "question": "নতুন অ্যাকাউন্ট খোলার প্রক্রিয়া কী?",
+        "answer": "নতুন অ্যাকাউন্ট খোলার জন্য বৈধ পরিচয়পত্র, ঠিকানার প্রমাণপত্র এবং শাখায় গিয়ে আবেদনপত্র পূরণ করতে হবে।"
+    },
+    {
+        "question": "আমি কীভাবে অন্য ব্যাংকে টাকা ট্রান্সফার করব?",
+        "answer": "ইন্টারনেট ব্যাংকিং, মোবাইল ব্যাংকিং অথবা শাখায় গিয়ে আপনি অন্য ব্যাংকে টাকা ট্রান্সফার করতে পারবেন। এর জন্য প্রাপকের ব্যাংক তথ্য প্রয়োজন।"
+    },
+    {
+        "question": "আমি যদি অনলাইন ব্যাংকিং পাসওয়ার্ড ভুলে যাই তাহলে কী করব?",
+        "answer": "\"Forgot Password\" অপশনে ক্লিক করে অথবা কাস্টমার সার্ভিসে যোগাযোগ করে পাসওয়ার্ড রিসেট করতে পারেন।"
+    },
+    {
+        "question": "আমি কীভাবে স্বয়ংক্রিয় বিল পেমেন্ট সেটআপ করব?",
+        "answer": "ইন্টারনেট ব্যাংকিং বা শাখায় গিয়ে বিলারের তথ্য এবং আপনার অ্যাকাউন্ট ডিটেইলস দিয়ে স্বয়ংক্রিয় বিল পেমেন্ট সেটআপ করতে পারেন।"
+    },
+    {
+        "question": "আন্তর্জাতিক মানি ট্রান্সফারের ফি কত?",
+        "answer": "আন্তর্জাতিক মানি ট্রান্সফারের ফি পরিমাণ ও গন্তব্য অনুযায়ী পরিবর্তিত হয়। নির্দিষ্ট রেট জানতে আমাদের ওয়েবসাইট দেখুন অথবা কাস্টমার সার্ভিসে যোগাযোগ করুন।"
+    },
+    {
+        "question": "আমি কীভাবে আমার ক্রেডিট লিমিট বাড়াতে পারি?",
+        "answer": "আপনি ইন্টারনেট ব্যাংকিং বা কাস্টমার সার্ভিসে যোগাযোগ করে রিভিউ-এর জন্য অনুরোধ করতে পারেন। অনুমোদন ক্রেডিট মূল্যায়নের ওপর নির্ভর করে।"
+    },
+    {
+        "question": "আমার অ্যাকাউন্ট ওভারড্রাফট হলে কী করব?",
+        "answer": "আপনার অ্যাকাউন্ট ওভারড্রাফট হলে অতিরিক্ত ফি এড়াতে দ্রুত কাস্টমার সার্ভিসে যোগাযোগ করুন।"
+    },
+    {
+        "question": "আমি কীভাবে আমার ব্যক্তিগত তথ্য আপডেট করব?",
+        "answer": "আপনি অনলাইন ব্যাংকিং, মোবাইল অ্যাপ ব্যবহার করে অথবা শাখায় গিয়ে বৈধ পরিচয়পত্র দেখিয়ে তথ্য আপডেট করতে পারেন।"
+    },
+    {
+        "question": "অ্যাকাউন্ট বন্ধ করার প্রক্রিয়া কী?",
+        "answer": "শাখায় গিয়ে বৈধ পরিচয়পত্রসহ অ্যাকাউন্ট ক্লোজার ফর্ম পূরণ করতে হবে। অ্যাকাউন্ট বন্ধ করার আগে সকল লেনদেন সম্পন্ন করতে হবে।"
+    },
+    {
+        "question": "আমি যদি কোনো লেনদেনে ভুল দেখতে পাই তাহলে কী করব?",
+        "answer": "যত তাড়াতাড়ি সম্ভব কাস্টমার সার্ভিসে যোগাযোগ করুন এবং লেনদেনের বিস্তারিত দিন। তারা আপনাকে অভিযোগ প্রক্রিয়ায় সহায়তা করবে।"
+    },
+    {
+        "question": "হোম লোনের জন্য কী কী প্রয়োজন?",
+        "answer": "হোম লোনের জন্য সাধারণত ইনকামের প্রমাণ, ক্রেডিট হিস্টোরি, প্রপার্টির তথ্য এবং পরিচয়পত্র লাগে। নির্দিষ্ট চাহিদা লোনের ধরন ও পরিমাণ অনুযায়ী পরিবর্তিত হতে পারে।"
+    },
+    {
+        "question": "আমি কীভাবে একটি স্ট্যান্ডিং অর্ডার সেটআপ করব?",
+        "answer": "আপনি ইন্টারনেট ব্যাংকিং, মোবাইল ব্যাংকিং অথবা শাখায় গিয়ে স্ট্যান্ডিং অর্ডার সেটআপ করতে পারেন। এর জন্য প্রাপকের ব্যাংক তথ্য ও নিয়মিত ট্রান্সফারের পরিমাণ প্রয়োজন।"
+    },
+    {
+        "question": "আমি যদি আমার অ্যাকাউন্টে সন্দেহজনক কার্যকলাপ দেখি তাহলে কী করব?",
+        "answer": "সন্দেহজনক কার্যকলাপ দেখলে অবিলম্বে কাস্টমার সার্ভিসে যোগাযোগ করুন। তারা আপনার অ্যাকাউন্ট নিরাপদ রাখার এবং তদন্তে সহায়তা করবে।"
+    },
+    {
+        "question": "আমি কীভাবে আমার অ্যাকাউন্ট স্টেটমেন্ট পাব?",
+        "answer": "আপনি ইন্টারনেট ব্যাংকিং, মোবাইল অ্যাপ অথবা শাখায় গিয়ে অ্যাকাউন্ট স্টেটমেন্ট দেখতে বা ডাউনলোড করতে পারেন।"
+    },
+    {
+        "question": "আমি কীভাবে স্বয়ংক্রিয় ক্রেডিট কার্ড পেমেন্ট সেট করব?",
+        "answer": "আপনি ইন্টারনেট ব্যাংকিং, মোবাইল অ্যাপ অথবা শাখার মাধ্যমে এটি সেট করতে পারেন।"
+    },
+    {
+        "question": "আমি কীভাবে একটি বিজনেস লোনের জন্য আবেদন করব?",
+        "answer": "বিজনেস লোনের জন্য আপনাকে ব্যবসার তথ্য, ইনকাম প্রমাণপত্র ইত্যাদি দিতে হবে।"
+    }
+]
