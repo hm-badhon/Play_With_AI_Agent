@@ -23,7 +23,7 @@ def load_vector_store():
             model_name=os.getenv("EMBEDDING_MODEL", "all-MiniLM-L6-v2"),
             model_kwargs={"device": "cuda"}
         )
-        vector_store_path = "/media/nsl3090-4/hdd/badhon/Chatbot/Part_3/vectorstore"
+        vector_store_path = "BanK_Customer_Support_Ai_Chatbot/app/vectorstore/vectorstore"
         db = FAISS.load_local(vector_store_path, embeddings, allow_dangerous_deserialization=True)
         logger.info("Vector store loaded successfully")
         return db
